@@ -81,8 +81,16 @@ footer .footer_copyright {
 }
 
 .carrousel_image {
-    
+    height: 100vh !important;
     background-size: cover !important;
+    /* border: 1px solid black; */
+    /* background-color: green; */
+}
+
+.slide_image {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .artist_name {
