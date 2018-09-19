@@ -22,7 +22,7 @@ const VenueInfo = () => {
                     Event Date &amp; Time
                   </div>
                   <div className="vn_desc">
-                    7 August 2017 @10:00 pm
+                    24 October 2018 @8:00 am
                   </div>
                 </div>
               </div>
@@ -42,7 +42,7 @@ const VenueInfo = () => {
                     Event Location
                   </div>
                   <div className="vn_desc">
-                    in5 Tech, Dubai Internet City
+                    Jumeirah Emirates Towers, Dubai
                   </div>
                 </div>
               </div>

@@ -4,7 +4,7 @@ import Slide from 'react-reveal/Slide'
 class CountDown extends Component {
 
   state = {
-    deadline: 'Nov, 23, 2018',
+    deadline: 'Oct, 24, 2018',
     days: '0',
     hours: '0',
     minutes: '0',
@@ -39,7 +39,7 @@ class CountDown extends Component {
 
         <div className="countdown_wrapper">
           <div className="countdown_top">
-            Event Starts in
+            Event Starts on
           </div>
           <div className="countdown_bottom">
             <div className="countdown_item">

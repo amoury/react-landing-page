@@ -10,7 +10,7 @@ const Featured = () => {
       
       <div className="artist_name">
         <div className="wrapper">
-          Dev Fest UAE 2018
+          World Blockchain Summit 2018
         </div>
       </div>
 
